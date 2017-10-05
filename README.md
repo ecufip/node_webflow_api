@@ -12,6 +12,6 @@
 
         $ node sites.js
 
-5. Details.js shows details of a specific site using the site id. To run, input the site id then:
+5. Details.js shows details of a specific site using the site id. To run, input the site id into details.js then:
 
         $ node details.js
