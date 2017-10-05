@@ -4,9 +4,13 @@
 
 1. Get webflow API key: in your Webflow account go to 'Project settings' then 'Integrations' then 'Generate new API key'
 2. Input your API into both the details.js and sites.js files
-3. Install package via NPM (could include in package.json file instead):
+3. Install package via NPM globally:
     
         $ npm install --save webflow-api
+
+      or using package.json:
+
+        $ npm install
 
 4. Sites.js shows the details of all sites using the API key and can show you site _ids. To run:
 

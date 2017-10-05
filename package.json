@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "webflow-api": "0.4.1"
+    }
+}
