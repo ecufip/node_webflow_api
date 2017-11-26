@@ -4,11 +4,7 @@
 
 1. Get webflow API key: in your Webflow account go to 'Project settings' then 'Integrations' then 'Generate new API key'
 2. Input your API into both the details.js and sites.js files
-3. Install package via NPM globally:
-    
-        $ npm install --save webflow-api
-
-      or using package.json:
+3. Install :
 
         $ npm install
 
