@@ -1,4 +1,4 @@
-2 simple node scripts for connecting with webflow using the API_KEY
+Simple node scripts for connecting with webflow using the API_KEY
 
 ## To use: ##
 
