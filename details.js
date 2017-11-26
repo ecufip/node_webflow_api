@@ -1,7 +1,7 @@
 const Webflow = require('webflow-api');
  
 // Initialize the API 
-const api = new Webflow({ token: 'your API key' });
+const api = new Webflow({ token: 'insert token' });
  
 // Fetch a site 
-api.site({ siteId: 'your site id' }).then(site => console.log(site));
+api.site({ siteId: 'insert id' }).then(site => console.log(site));
